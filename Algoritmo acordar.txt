@@ -1,0 +1,26 @@
+1- Acordo com o despertador
+2- Sento na cama e vejo que horas são
+3- Caso esteja atrasado
+    1- Corro arrumar minhas coisas
+    2- Escovo meus dentes o mais rápido possível
+    3- Me troco 
+4- Caso esteja no horário
+    1- Me calço
+    2- Escovo os dentes
+    3- Vou preparar meu café da manhã
+    4- Como uma fruta e um pão
+    5- Caso não tenha café 
+        1- Pego o pó de café
+        2- Coloco na cafeteira
+        3- Aperto para preparar o café
+        4- Espero o café ficar pronto e pego uma xicara na prateleira
+        5- Coloco o café
+        6- Bebo o café
+    6- Caso tenha café
+        1- Pego a cafeteira
+        2- Pego uma xicara na prateleira
+        3- Coloco o café
+        4- Bebo o café
+    7- Me visto
+    8- Arrumo minhas coisas
+5- Vou pro meu compromisso
